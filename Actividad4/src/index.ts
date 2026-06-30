@@ -1,1 +1,3 @@
-console.log("Test api");
+import { menu } from "./menu/menu";
+
+menu();
