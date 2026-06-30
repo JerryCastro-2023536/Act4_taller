@@ -1,0 +1,1 @@
+export type privilegio = "bajo" | "medio" | "alto";
